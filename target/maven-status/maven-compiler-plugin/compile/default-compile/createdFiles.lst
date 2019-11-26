@@ -1,0 +1,4 @@
+com\zomato\pojo\UserPojo.class
+com\zomato\controller\BaseController.class
+com\zomato\controller\UserRegister.class
+com\zomato\pojo\UserItemPojo.class
